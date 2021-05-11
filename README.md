@@ -1,2 +1,4 @@
-# React-Tailwind-Component
-A repo containing all UI components created with React and Tailwindcss
+### React Tailwind Components
+
+This repository is a work in progress!
+Will soon update to a better version. Keep visiting 🙌
